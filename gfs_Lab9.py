@@ -14,4 +14,6 @@ while menu_option != 3:
     if menu_option == 1:
         encode_str = input("Input string to be encoded: ")
         print("Your password has been encoded and stored!\n")
+    if menu_option == 2:
+        decode_str = decode(encode_str)
 print("Goodbye!")
