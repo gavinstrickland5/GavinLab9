@@ -1,3 +1,5 @@
+# Gavin Strickland
+
 menu_option = 0
 
 def encode(string):
